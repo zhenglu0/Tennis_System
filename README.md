@@ -1,29 +1,17 @@
 ﻿========================================================================
-    控制台应用程序：Tennis System 项目概述
+    控制台应用程序：Tennis System 项目的一些结果截图
 ========================================================================
 
-应用程序向导已为您创建了此 Tennis System 应用程序。
-
-本文件概要介绍组成 Tennis System 应用程序的
-的每个文件的内容。
-
-
-Tennis System.vcproj
-    这是使用应用程序向导生成的 VC++ 项目的主项目文件，
-    其中包含生成该文件的 Visual C++ 的版本信息，以及有关使用应用程序向导选择的平台、配置和项目功能的信息。
-
-Tennis System.cpp
-    这是主应用程序源文件。
-
-/////////////////////////////////////////////////////////////////////////////
-其他标准文件：
-
-StdAfx.h, StdAfx.cpp
-    这些文件用于生成名为 Tennis System.pch 的预编译头 (PCH) 文件和名为 StdAfx.obj 的预编译类型文件。
-
-/////////////////////////////////////////////////////////////////////////////
-其他注释：
-
-应用程序向导使用“TODO:”注释来指示应添加或自定义的源代码部分。
-
-/////////////////////////////////////////////////////////////////////////////
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result01.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result02.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result03.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result04.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result05.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result06.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result07.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result08.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result09.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result10.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result11.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result12.jpg)
+![alt tag](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result13.jpg)
