@@ -1,5 +1,5 @@
 
-##Research on the method of Tennis ball tacking and judging according to the tennis rules
+## Research on the method of Tennis ball tacking and judging according to the tennis rules
 
 The research on the method of the tennis ball tracking and judging is enlightened by the
 “Hawk eye system” in the tennis match. When the athletes have different opinions on the judging of the ball,
@@ -18,7 +18,7 @@ some experiment results are given to demonstrate that the system works well over
 the experiment of the method. Finally some suggestion of improving the system and opinions on the future
 work are presented.
 
-##Results of screenshot of this project
+## Results of screenshots of this project
 
 ![screenshot](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result12.JPG)
 ![screenshot](https://github.com/RogerFederer03/Tennis_System/blob/master/Results/Result13.JPG)
